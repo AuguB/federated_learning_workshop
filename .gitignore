@@ -1,0 +1,5 @@
+data/fcon1000.csv
+models/transferred_model
+models/transferred_model/*
+models/small_model
+models/small_model/*
